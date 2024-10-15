@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>Rimuru Tempest</title>
+</head>
+
+<h1>Hello Rimuru Tempest</h1>
+
+
+<body>
+
+Satoru was an ordinary man who died at the age of 37 from a knife wound to the abdomen and was reborn in the new world as sexless slime. The dragon gave this slime a name, Rimuru Tempest. In his new form, the hero gains many new skills and his arsenal expands every time he absorbs another monster or even sees a new attack. After evolving into the Prince of Darkness, his basic skills turn into three primary skills: "Lord of Wisdom Raphael", who was the unique skill "Great Sage" before evolution, helps Rimuru learn about the world, analyzes the environment and controls all his other abilities; "Lord of Gluttony Beelzebub", originally a unique skill "Predator", allows you to absorb living and non-living, store what is absorbed in the stomach, study, modify and use it; and "Lord of Vows Uriel", allowing Rimuru to control the laws of nature.
+
+</font.
+
+<br>
+
+<img src="https://images5.alphacoders.com/100/thumbbig-1003678.webp">
+
+
+<br>
+<a href="https://github.com/akorogod/Tempest.git">my story</a>
+<body>
+
+</html>
